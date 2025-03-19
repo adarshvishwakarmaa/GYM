@@ -11,7 +11,7 @@ import Gallery from './components/Gallery';
 import Pricing from './components/Pricing';
 import BMICalculator from './components/BMICalculator';
 import Footer from './components/Footer';
-
+//hiiiiiiiiiiii
 const App = () => {
   return (
     <Router>
