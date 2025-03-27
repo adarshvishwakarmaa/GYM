@@ -62,7 +62,7 @@ npm run dev
 
 ## 🎥 Live Demo  
 
-🔗 **[Live Preview](https://your-netlify-link.netlify.app)**  
+🔗 **[Live Preview](https://fitness-junction-gym.netlify.app)**  
 
 ---
 
@@ -70,7 +70,7 @@ npm run dev
 
 If you have any questions or need support, feel free to reach out!  
 
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)  
+📧 **Email:** [your-email@example.com](mailto:adarshvishwakarma2004@gmail.com)  
 
 ---
 
