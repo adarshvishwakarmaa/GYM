@@ -1,4 +1,4 @@
-# 🏋️‍♂️ GYM - Beginner-Friendly Backend Integration
+# 🏋️‍♂️ GYM - Beginner-Friendly 
 
 ## 🌟 Description  
 **GYM** is a beginner-friendly web application built with **React** that helps developers understand how to integrate backend functionality into their frontend applications.  
